@@ -13,6 +13,7 @@ const (
 	AcceptCharset                 = "Accept-Charset"
 	AcceptEncoding                = "Accept-Encoding"
 	AcceptLanguage                = "Accept-Language"
+	AcceptLocale                  = "Accept-Locale"
 	Authorization                 = "Authorization"
 	CacheControl                  = "Cache-Control"
 	ContentLength                 = "Content-Length"
